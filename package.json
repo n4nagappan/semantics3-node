@@ -1,7 +1,7 @@
 {
     "name": "semantics3-node",
     "description": "Node.js library bindings for the Semantics3 APIs.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "main": "./lib/main",
     "dependencies": {
         "oauth": "0.9.8"
